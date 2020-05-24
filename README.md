@@ -1,2 +1,4 @@
 # 101pong
-101pong: First Maths Project
+Vector computations.
+
+Grade: 18.5/20
